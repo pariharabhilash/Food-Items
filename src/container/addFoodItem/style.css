@@ -1,0 +1,17 @@
+.create-item-section{
+    display:flex;
+    flex-direction: row;
+    column-gap: 1rem;
+}
+.header-section{
+    border:1px solid black;
+    width:100%;
+    background-color: rgba(39, 62, 82, 0.881);
+}
+.create-section{
+    border:0.2px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: green;
+}
